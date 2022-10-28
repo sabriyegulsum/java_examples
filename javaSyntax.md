@@ -27,7 +27,7 @@ bunlardan printf normal C deki printf ile aynı. tek bir farkı var \n \t gibi i
                     } 
                 } 
 ```
-print ise c++'daki cout'a benziyor. >> yerine + kullanıyor sadece :). println ise yazdırma iişelmi bittikten sonra bir sonraki satıra geçiyor.
+print ise c++'daki cout'a benziyor. >> yerine + kullanıyor sadece :). println ise yazdırma işlemi bittikten sonra bir sonraki satıra geçiyor.
 ``` java              
                 public class println_ 
                 {
